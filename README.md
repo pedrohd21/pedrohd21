@@ -22,7 +22,7 @@ Estou confortável trabalhando com essas tecnologias e estou sempre aberto a apr
 
 Se você tiver interesse em saber mais sobre mim ou colaborar em projetos interessantes, fique à vontade para entrar em contato:
 
-- **LinkedIn:** (https://www.linkedin.com/in/seu_perfil)](https://www.linkedin.com/in/pedro-henrique-a083b3145/)
+- **LinkedIn:** (https://www.linkedin.com/in/pedro-henrique-a083b3145/)
 
 Estou ansioso para conectar com pessoas apaixonadas por tecnologia e trabalhar em projetos desafiadores!
 
