@@ -1,16 +1,16 @@
-### Hi there 👋
+### Sobre mim 😊
 
-<!--
-**pedrohd21/pedrohd21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor de software apaixonado pela arte da programação. Cursando Ciência da Computação, mergulhei de cabeça no mundo da tecnologia e tenho sido impulsionado pela minha curiosidade e sede de conhecimento. Para mim, programar é mais do que apenas um trabalho - é uma verdadeira paixão que me motiva a aprender constantemente e me diverte enquanto o faço.
 
-Here are some ideas to get you started:
+### Sobre meu GitHub 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Olá, pessoal! Meu nome é Pedro e este é o meu modesto GitHub. Aqui você encontrará uma mistura de projetos pessoais, experimentos e repositórios de estudo. Sinta-se à vontade para explorar, dar uma olhada nos meus códigos e compartilhar feedback.
+
+
+## Principais Techs 📊
+
+- Javascript
+- React Native - Expo
+- Python
+- Java
+- Banco de dados
