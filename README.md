@@ -10,8 +10,8 @@ Aqui está um dos meus principais projetos:
 Agenda em Django: Um aplicativo de agenda desenvolvido em Django. Possui recursos de login e cadastro de usuários, permitindo que os usuários criem, leiam, atualizem e excluam eventos em sua agenda pessoal. Utiliza o framework Django para gerenciar o backend e o banco de dados.
 
 ## Principais Linguagens 💻
--Javascript
--React Native - Expo
--Python
--Java
--Banco de dados
+- Javascript
+- React Native - Expo
+- Python
+- Java
+- Banco de dados
