@@ -15,7 +15,7 @@ Atuar como Analista de Dados Júnior, aplicando habilidades em Excel, Python, Po
 ## 🧠 Habilidades Técnicas
 
 - **Excel**: Tabelas dinâmicas, PROCV/XLOOKUP, dashboards simples  
-- **Power BI**: Criação de relatórios e painéis com dados limpos  
+- **Power BI**: Criação de relatórios e painéis com dados. 
 - **Python**: pandas, matplotlib, seaborn, Jupyter  
 - **SQL**: Consultas simples e junções básicas  
 - **Git & GitHub**: Versionamento de projetos
@@ -26,9 +26,6 @@ Atuar como Analista de Dados Júnior, aplicando habilidades em Excel, Python, Po
 
 🟢 **[Análise de Vendas - Power BI](#)** *(em breve)*  
 📊 Dashboard mostrando desempenho do time comercial e metas alcançadas
-
-🟢 **[Análise de Dados de Animes - Python](#)** *(em breve)*  
-📈 Projeto pessoal com web scraping e análise de notas, duração e episódios
 
 ---
 
