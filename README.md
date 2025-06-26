@@ -1,28 +1,42 @@
-# Sobre Mim
+# 👋 Olá, eu sou o Pedro Henrique!
 
-## 👨‍🎓 Estudante de Ciência da Computação
+🎓 Formado em Ciência da Computação pela Estácio (conclusão em 10/2024)  
+📊 Em transição para a área de **Análise de Dados**  
+📍 Belo Horizonte – MG
 
-Olá! Sou um estudante de Ciência da Computação apaixonado por tecnologia e desenvolvimento de software. Estou constantemente buscando aprender e aprimorar minhas habilidades nessa área em constante evolução.
+---
 
-## 🚀 Principal Projeto: Agenda em Django
+## 💼 Objetivo atual
 
-Feito um projeto de destaque chamado **Agenda em Django**. É um aplicativo de agenda desenvolvido em Django, com recursos completos de login, autenticação de usuários e operações CRUD. Essa experiência me permitiu aprofundar meus conhecimentos em Python e no framework Django.
+Atuar como Analista de Dados Júnior, aplicando habilidades em Excel, Python, Power BI e SQL para gerar insights e apoiar a tomada de decisões.
 
-## 💻 Principais Habilidades
+---
 
-- Python
-- React Native e Expo
-- JavaScript
-- Java
-- Banco de Dados
+## 🧠 Habilidades Técnicas
 
-Estou confortável trabalhando com essas tecnologias e estou sempre aberto a aprender novas ferramentas e linguagens de programação.
+- **Excel**: Tabelas dinâmicas, PROCV/XLOOKUP, dashboards simples  
+- **Power BI**: Criação de relatórios e painéis com dados limpos  
+- **Python**: pandas, matplotlib, seaborn, Jupyter  
+- **SQL**: Consultas simples e junções básicas  
+- **Git & GitHub**: Versionamento de projetos
 
-## 🌐 Entre em Contato
+---
 
-Se você tiver interesse em saber mais sobre mim ou colaborar em projetos interessantes, fique à vontade para entrar em contato:
+## 📌 Projetos
 
-- **LinkedIn:** (https://www.linkedin.com/in/pedro-henrique-a083b3145/)
+🟢 **[Análise de Vendas - Power BI](#)** *(em breve)*  
+📊 Dashboard mostrando desempenho do time comercial e metas alcançadas
 
-Estou ansioso para conectar com pessoas apaixonadas por tecnologia e trabalhar em projetos desafiadores!
+🟢 **[Análise de Dados de Animes - Python](#)** *(em breve)*  
+📈 Projeto pessoal com web scraping e análise de notas, duração e episódios
 
+---
+
+## 📬 Contato
+
+[LinkedIn](https://www.linkedin.com/in/pedro-henrique-a083b3145/)  
+✉️ pedro.dev21@gmail.com
+
+---
+
+📢 Estou sempre buscando aprender mais e colaborar com projetos reais. Vamos conversar!
